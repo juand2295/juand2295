@@ -1,4 +1,4 @@
-✨I'm a _full-stack_ web developer who has always had a passion for technology. Ever since I wrote my first line of code on FreeCodeCamp, I fell in love with this world.
+✨I'm a _full-stack_ web developer who has always had a passion for technology and ever since I wrote my first line of code almost 10 months ago on FreeCodeCamp, I fell in love with this world.
 
 <details>
 <summary>🛰️Technologies I use: </summary>
