@@ -1,7 +1,7 @@
 ✨I'm a _fullstack_ web developer, who has always loved technology and ever since I wrote my first line of code on _"freecodecamp"_ fell in love with this world.
 
 <details>
-**<summary>🛰️Technologies I use: </summary>**
+<summary>🛰️Technologies I use: </summary>
 - JavaScrip
 - React.js
 - Next.js
@@ -15,7 +15,7 @@
 </details>
 
 <details>
-**<summary>🚡 Technologies I'm learning:</summary>**
+<summary>🚡 Technologies I'm learning:</summary>
 - TypeScript
 - Bootstrap
 </details>
