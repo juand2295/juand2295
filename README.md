@@ -1,7 +1,7 @@
-I'm a **fullstack** web developer, who has always loved technology and ever since I wrote my first line of code on "freecodecamp" fell in love with this world.
+✨I'm a _fullstack_ web developer, who has always loved technology and ever since I wrote my first line of code on "freecodecamp" fell in love with this world.
 
 <details>
-<summary>🛰️ **Technologies I use:** </summary>
+## <summary>🛰️Technologies I use: </summary>
 - JavaScrip
 - React.js
 - Next.js
