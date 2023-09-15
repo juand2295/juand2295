@@ -20,7 +20,7 @@
 - Bootstrap
 </details>
 
-You can contact me through [Linkedin](www.linkedin.com/in/juan-david-pérez-vélez-276090184) or just send me an email at juandaperezvelez@hotmail.com and will reach back to you as soon as I can.👽
+You can contact me through [Linkedin](www.linkedin.com/in/juan-david-pérez-vélez-276090184) or just send me an email at juandaperezvelez@hotmail.com and I will reach back to you as soon as I can.👽
 
 
 
