@@ -2,6 +2,7 @@
 
 ✨I'm a _full-stack_ web developer who has always had a passion for technology, and ever since I wrote my first line of code almost 10 months ago on FreeCodeCamp, I fell in love with this world.
 
+  ![JavaScrip](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))
 <details>
 <summary>🛰️Technologies I use: </summary>
   ![JavaScrip]([https://myoctocat.com/assets/images/base-octocat.svg](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E))
